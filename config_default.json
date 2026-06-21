@@ -1,12 +1,13 @@
 {
     "theme": "VS Code (Light)",
-    "keyboard_layout": "Qwerty",
+    "keyboard_layout": "QWERTY",
     "status_lines": [
         {
             "components": [
                 "KiCharacter",
                 "Mode",
                 "SelectionMode",
+                "Language",
                 "Reveal",
                 "LastSearchString",
                 "Spacer",
@@ -19,9 +20,9 @@
             "components": [
                 "GitBranch",
                 "LineColumn",
+                "LspProgress",
                 "Spacer",
                 "CurrentFileParentFolder",
-                "Spacer",
                 "CurrentWorkingDirectory"
             ]
         }
@@ -31,5 +32,9 @@
         [null, null, null, null, null, null, null, null, null, null],
         [null, null, null, null, null, null, null, null, null, null]
     ],
-    "languages": {}
+    "languages": {},
+    "indent_width": 4,
+    "indent_char": "space",
+    "show_key_in_keymap": false,
+    "icon_style": "emoji"
 }
