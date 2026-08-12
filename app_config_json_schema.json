@@ -107,6 +107,7 @@
                 "Make",
                 "CPP",
                 "CSS",
+                "Scss",
                 "Ruby",
                 "Nix",
                 "Fish",
@@ -127,7 +128,15 @@
                 "Glsl",
                 "Devicetree",
                 "Just",
-                "Roc"
+                "Roc",
+                "Idris",
+                "Sql",
+                "Dockerfile",
+                "Gitattributes",
+                "Gitcommit",
+                "Rescript",
+                "Typst",
+                "Php"
             ]
         },
         "Command": {
